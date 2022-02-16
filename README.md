@@ -3,7 +3,7 @@ This is the solution of PCA-SVD-Autoencoder-Fourier-Wavelet-Transformation-for-d
 
 Project comes from homework in Wuhan University
 
-Environment for Denoise_Autodecoder: Python 3.5+Opencv-Python 4.2.0.34+tensorflow-cup or gpu with NVIDIA GeForce GTX 750 Ti
+Environment for Denoise_Autodecoder: Python 3.5+Opencv-Python 4.2.0.34+tensorflow-cpu or gpu with NVIDIA GeForce GTX 750 Ti
 
 First Update:
 Fourier.py, in this function, I use Guassian low-pass and butterworth to denoise.
